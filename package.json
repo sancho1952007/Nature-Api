@@ -1,0 +1,11 @@
+{
+  "name": "nature-images-api",
+  "version": "1.0.0",
+  "description": "A Simple Api Designed By Sancho Godinho To Generate Nature Images...",
+  "main": "main.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "Sancho Godinho",
+  "license": "MIT"
+}
